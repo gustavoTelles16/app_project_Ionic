@@ -1,0 +1,7 @@
+{
+  "name": "app_side_tab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
